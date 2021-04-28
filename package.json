@@ -1,0 +1,24 @@
+{
+  "name": "headertest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juckfuso/headertest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juckfuso/headertest/issues"
+  },
+  "homepage": "https://github.com/juckfuso/headertest#readme",
+  "dependencies": {
+    "gsap": "^3.6.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
